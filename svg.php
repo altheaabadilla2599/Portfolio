@@ -32,13 +32,18 @@
 <br>
 <link rel="stylesheet" type="text/css" href="css/style.css">
 
+<h1> MODULE 5 & 6</h1>
 
 <a class="button" href="LT_5.1.php">Learning Task 5.1</a>
 <a class="button button2" href="LT_6.1.php">Learning Task 6.1</a>
 <a class="button button3" href="LT_6.2.php">Learning Task 6.2</a>
  
 
+<br>
+<br>
 
+<h1> Midterm Exam </h1>
+<a class="button" href="midterm.php">Culminating Learning Evidence</a>
 
 </body>
 </html>
