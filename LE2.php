@@ -143,7 +143,7 @@ body{
 	height: 400px;
 	background-color: tranparent;
 	margin-left: 200px;
-	margin-top: 120px;
+	margin-top: 160px;
 	
 }
 
