@@ -789,12 +789,7 @@ footer{
 	<p>bouquets, and customers a way to buy them.</p>
 	</div>
 	
-<div id="about3">
-	<p>Frustrated with the underwhelming arrangements big floral companies</p>
-	<p>offered online.Lana knew there had to be a better way to find and send</p>
-	<p>arrangements that didn’t feel prepackaged and impersonal.</p>
-	<p>(The rest is botanic history!)</p>
-	</div>
+
 	
 <div id="whytext">
 	Why send flowers with Floom?
