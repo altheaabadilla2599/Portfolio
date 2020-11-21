@@ -164,7 +164,7 @@ body{
 	height: 250px;
 	background-color: tranparent;
 	margin-left: 320px;
-	margin-top: 20px;
+	margin-top: 40px;
 }		
 
 #holder14{
