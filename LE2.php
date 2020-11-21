@@ -143,7 +143,7 @@ body{
 	height: 400px;
 	background-color: tranparent;
 	margin-left: 200px;
-	margin-top: 100px;
+	margin-top: 120px;
 	
 }
 
@@ -790,9 +790,9 @@ footer{
 	</div>
 	
 <div id="about3">
-	<p>Frustrated with the underwhelming arrangements big floral companies offered online,</p>
-	<p>Lana knew there had to be a better way to find and send arrangements that didn’t feel</p>
-	<p>prepackaged and impersonal.(The rest is botanic history!)</p>
+	<p>Frustrated with the underwhelming arrangements big floral companies offered online.</p>
+	<p>Lana knew there had to be a better way to find and send arrangements that didn’t feel
+	prepackaged and impersonal.(The rest is botanic history!)</p>
 	</div>
 	
 <div id="whytext">
