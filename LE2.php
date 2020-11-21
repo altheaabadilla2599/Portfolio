@@ -296,7 +296,7 @@ body{
 	font-family: Verdana;
 	font-size:18px;
 	margin-left: 710px;
-	margin-top: 60px;	
+	margin-top: 40px;	
 	
 }
 
@@ -791,7 +791,7 @@ footer{
 	
 <div id="about3">
 	<p>Frustrated with the underwhelming arrangements big floral companies</p>
-	<p>offered online.Lana knew there had to be a better way to find and send/<p>
+	<p>offered online.Lana knew there had to be a better way to find and send</p>
 	<p>arrangements that didn’t feel prepackaged and impersonal.</p>
 	<p>(The rest is botanic history!)</p>
 	</div>
