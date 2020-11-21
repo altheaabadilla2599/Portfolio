@@ -158,14 +158,14 @@ body{
 	margin-top: 50px;
 }
 
-
 #title {
-	font-family: Verdana;
-	font-size:50px;
-	margin-left: 370px;
-	color: white;
-	margin-top: 70px;
-}	
+
+	width: 700px;
+	height: 250px;
+	background-color: tranparent;
+	margin-left: 320px;
+	margin-top: 20px;
+}		
 
 #holder14{
 	width: 150px;
@@ -753,8 +753,9 @@ footer{
 
 
 
+
 <div id="title">
-	Welcome to F L O O M
+<img src="signage.svg">
 </div>
 
 <div id="holder12">
