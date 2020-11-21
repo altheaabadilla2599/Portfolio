@@ -7,7 +7,6 @@
 
 body{
 	background-color: #88aed0;
-	overflow-x: hidden;
 	min-height: 100vh;	
 	padding-bottom: 300px;
 	position: relative;
@@ -784,17 +783,16 @@ footer{
 	</div>
 	
 <div id="about2">
-	Three years ago in London, Lana Elie founded Floom,
-	an online marketplace that provides independent florists
-	from the UK and US a platform to sell beautifully crafted
-	bouquets, and customers a way to buy them.
+	<p>Three years ago in London, Lana Elie founded Floom,</p>
+	<p>an online marketplace that provides independent florists</p>
+	<p>from the UK and US a platform to sell beautifully crafted</p>
+	<p>bouquets, and customers a way to buy them.</p>
 	</div>
 	
 <div id="about3">
-	Frustrated with the underwhelming arrangements big floral companies offered online, 
-	Lana knew there had to be a better way to find and send arrangements that didn’t feel
-	prepackaged and impersonal. The answer laid in handpicking local independent florists
-	who were experts at creating thoughtful, unique bouquets. (The rest is botanic history!)
+	<p>Frustrated with the underwhelming arrangements big floral companies offered online,</p>
+	<p>Lana knew there had to be a better way to find and send arrangements that didn’t feel</p>
+	<p>prepackaged and impersonal.(The rest is botanic history!)</p>
 	</div>
 	
 <div id="whytext">
