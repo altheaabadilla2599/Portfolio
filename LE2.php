@@ -792,7 +792,8 @@ footer{
 <div id="about3">
 	<p>Frustrated with the underwhelming arrangements big floral companies offered online.</p>
 	<p>Lana knew there had to be a better way to find and send arrangements that didn’t feel
-	prepackaged and impersonal.(The rest is botanic history!)</p>
+	prepackaged and impersonal.</p
+	<p>(The rest is botanic history!)</p>
 	</div>
 	
 <div id="whytext">
