@@ -790,9 +790,9 @@ footer{
 	</div>
 	
 <div id="about3">
-	<p>Frustrated with the underwhelming arrangements big floral companies offered online.</p>
-	<p>Lana knew there had to be a better way to find and send arrangements that didn’t feel
-	prepackaged and impersonal.</p
+	<p>Frustrated with the underwhelming arrangements big floral companies</p>
+	<p>offered online.Lana knew there had to be a better way to find and send/<p>
+	<p>arrangements that didn’t feel prepackaged and impersonal.</p>
 	<p>(The rest is botanic history!)</p>
 	</div>
 	
