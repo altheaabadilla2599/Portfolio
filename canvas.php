@@ -26,6 +26,20 @@
     <h1 class="w3-xxlarge w3-text-white"><span class="w3-padding w3-black w3-opacity-min"><b></b></span> <span class="w3-hide-small w3-text-light-grey"></span></h1>
   </div>
 </header>
+	
+<br>
+<br>
+<link rel="stylesheet" type="text/css" href="css/style.css">
+
+<h1> MODULE 7</h1>
+
+<a class="button" href="LT_7.1.php">Learning Task 7.1</a>
+
+ 
+
+<br>
+<br>
+
 
 
 
